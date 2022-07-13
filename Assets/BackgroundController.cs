@@ -5,8 +5,8 @@ using UnityEngine;
 public class BackgroundController : MonoBehaviour
 {
     private float scrollSpeed = -1;
-    private float deadLine = -16;
-    private float startLine = 15.8f;
+    private float deadLine = -18.48f;
+    private float startLine = 18.48f;
 
 
     // Start is called before the first frame update
